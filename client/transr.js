@@ -1,0 +1,1 @@
+../node_modules/transr/dist/transr.min.js
